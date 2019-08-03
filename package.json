@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MDB22/Clarity/issues"
   },
-  "homepage": "https://github.com/MDB22/Clarity#readme"
+  "homepage": "https://github.com/MDB22/Clarity#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
 }
